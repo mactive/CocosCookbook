@@ -16,7 +16,7 @@
 #import "GameOverScene.h"
 
 #pragma mark - HelloWorldLayer
-#define ENEMY_COUNT 10
+#define ENEMY_COUNT 30
 
 // HelloWorldLayer implementation
 @implementation HelloWorldLayer
